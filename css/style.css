@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+    font-family: "Roboto", sans-serif;
+}
+
+p{
+    color: hsl(0, 100%, 50%);
+}
+
+/* elemento con id personalizzato
+#main-paragraph{ color: blueviolet;
+
+} */
+
+/* "." selettore che permette di selezionare tutti gli elementi html con questa classe */
+
+.text-blue{
+    color: blue;
+}
+
+.text-large{
+    font-size: 37px;
+    font-weight: 600;
+}
